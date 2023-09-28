@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\bin\Debug\ExeptionHandlingHomework.exe.config
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\bin\Debug\ExeptionHandlingHomework.exe
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\bin\Debug\ExeptionHandlingHomework.pdb
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\obj\Debug\ExeptionHandlingHomework.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\obj\Debug\ExeptionHandlingHomework.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\obj\Debug\ExeptionHandlingHomework.exe
+C:\GitHub Project\C#\ExeptionHandlingHomework\ExeptionHandlingHomework\ExeptionHandlingHomework\obj\Debug\ExeptionHandlingHomework.pdb
